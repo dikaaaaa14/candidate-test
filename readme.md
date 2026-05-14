@@ -1,16 +1,30 @@
 # Feature Test Assignment
 
+<<<<<<< HEAD
 ## 1. Instructions
+=======
+* Clone or fork this repository.
+* Create a new branch, `{user}-assignment`, for your work.
+* Invite @ikhsan017 to be a collaborator.
+>>>>>>> 6133af27c2dc5582b29a325245b1c70f5ea1e746
 
 - Clone or fork this repository.
 - Create a new branch: `{user}-assignment`.
 - Invite **@ikhsan017** and **@dhiaaziz** as collaborators.
 - Follow the setup instructions provided in the repository before running the project.
 
+<<<<<<< HEAD
 ## 2. Feature Requirements
+=======
+ * Cromplete the `BeamAnalysis.analyzer` sub-class in `js/beam-analysis.js` to calculate the forces
+ * Intended usage is shown in `index.html`
+ * Calculation model is provided in `excel/beam-analysis.xlsx` directory.
+ * You are free to use any library or framework to help you with the chart.
+>>>>>>> 6133af27c2dc5582b29a325245b1c70f5ea1e746
 
 ### Core Features (Main Criteria)
 
+<<<<<<< HEAD
 - [ ] CRUD Suppliers
 - [ ] CRUD CLT Layups (nested under Supplier)
 - [ ] CRUD CLT Layers (nested under Layup)
@@ -153,3 +167,19 @@ Ensure the demo clearly showcases:
 - CRUD functionality
 - Import / Export feature
 - Conflict resolution behavior
+=======
+#### Simply Supported Analysis
+![Bending Moment Plot](images/bending-moment-plot.png)
+![Shear Force Plot](images/shear-force-plot.png)
+![Deflection Plot](images/deflection-plot.png)
+
+#### Two Span Unequal Analysis
+![Bending Moment Plot](images/two-span-unequal-bending-plot.png)
+![Shear Force Plot](images/two-span-unequal-shear-plot.png)
+![Deflection Plot](images/two-span-unequal-deflection-plot.png)
+
+##### When L1 = L2
+![Bending Moment Plot](images/two-span-equal-bending-plot.png)
+![Shear Force Plot](images/two-span-equal-shear-plot.png)
+![Deflection Plot](images/two-span-equal-deflection-plot.png)
+>>>>>>> 6133af27c2dc5582b29a325245b1c70f5ea1e746
